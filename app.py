@@ -32,7 +32,7 @@ def index():
         </head>
         <body>
             <center>
-                <h1>Flask App Deployment with Cartoon Effect!</h1>
+                <h1>Flask App Deployment!</h1>
             </center>
         </body>
     </html>
